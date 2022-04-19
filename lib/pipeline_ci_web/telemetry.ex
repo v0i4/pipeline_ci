@@ -1,5 +1,5 @@
 defmodule PipelineCiWeb.Telemetry do
-   @moduledoc """
+  @moduledoc """
   telemetry
   """
   use Supervisor
