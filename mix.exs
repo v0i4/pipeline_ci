@@ -21,7 +21,6 @@ defmodule PipelineCi.MixProject do
         "coveralls.post": :test,
         "coveralls.html": :test
       ]
-
     ]
   end
 
