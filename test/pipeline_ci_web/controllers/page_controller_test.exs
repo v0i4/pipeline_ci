@@ -1,4 +1,7 @@
 defmodule PipelineCiWeb.PageControllerTest do
+  @moduledoc """
+  testController
+  """
   use PipelineCiWeb.ConnCase
 
   test "GET /", %{conn: conn} do
